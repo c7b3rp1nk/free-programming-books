@@ -2450,9 +2450,9 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html) (HTML)
 * [Code Club Book of Scratch](https://magpi.raspberrypi.com/books/book-of-scratch) - Rik Cross, Tracy Gardner (PDF)
+* [Coding Scratch for Kids](https://livreur2soleil.com/yms/Ebooks/Informatique/Programmation/Scratch/2023/Coding%20Scratch%20for%20Kids.pdf) - Gregory S. Kinney (PDF)
 * [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/) - Michal Armoni, Moti Ben-Ari (PDF)
 * [Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - The MagPi magazine (PDF)
-* [Coding for Kids: Scratch](https://livreur2soleil.com/yms/Ebooks/Informatique/Programmation/Scratch/2023/Coding%20Scratch%20for%20Kids.pdf) - Stuart Andrew (PDF)
 * [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart (HTML)
 
 
